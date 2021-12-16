@@ -1,0 +1,5 @@
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/Medical_Record.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/Medical_Record_autogen_timestamp_deps.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/Medical_Record_autogen.dir
