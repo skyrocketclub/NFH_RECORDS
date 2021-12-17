@@ -1,0 +1,14 @@
+# ninja log v5
+2	483	6613960904726565	Medical_Record_autogen/timestamp	a228aece05e3bb62
+2	483	6613960904726565	Medical_Record_autogen/mocs_compilation.cpp	a228aece05e3bb62
+2	483	6613960904726565	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Medical_Record_autogen/timestamp	a228aece05e3bb62
+2	483	6613960904726565	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Medical_Record_autogen/mocs_compilation.cpp	a228aece05e3bb62
+485	694	6613960908834069	CMakeFiles/Medical_Record.dir/Medical_Record_autogen/mocs_compilation.cpp.obj	43c92b98d8cba81d
+489	6163	6613960963510684	CMakeFiles/Medical_Record.dir/main.cpp.obj	de94b0148d803bc2
+6173	6524	6613960967028520	Medical_Record.exe	ec57bbe878e780b1
+21	356	6614822007757640	Medical_Record_autogen/timestamp	a228aece05e3bb62
+21	356	6614822007757640	Medical_Record_autogen/mocs_compilation.cpp	a228aece05e3bb62
+21	356	6614822007757640	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Medical_Record_autogen/timestamp	a228aece05e3bb62
+21	356	6614822007757640	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/QT_PROJECTS/build-Medical_Record-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Medical_Record_autogen/mocs_compilation.cpp	a228aece05e3bb62
+364	5388	6614822058024731	CMakeFiles/Medical_Record.dir/main.cpp.obj	de94b0148d803bc2
+5389	5705	6614822061111271	Medical_Record.exe	ec57bbe878e780b1
