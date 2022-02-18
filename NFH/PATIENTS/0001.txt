@@ -1,2 +1,3 @@
 0#0001#UGOCHUKWU#SIXTUS#NWANKITI#MALE#AS#B+#NONE
 1#14#2#2022#Sore throat, abdominal pains#Stage 3 Cancer#Go for C-T SCan#RUTH#PIUS#PRI
+2#18#2#2022#Persisting sore throat, coughing blood#Suspected Stage 4 cancer#Visit Prisms for C-T Scan Max#RUTH#PIUS#FUP-1
